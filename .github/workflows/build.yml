@@ -1,4 +1,4 @@
-name: Build executable
+name: .disable
 
 on:
   workflow_dispatch:
