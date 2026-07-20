@@ -1,4 +1,4 @@
-name: .disable
+name: Workflow
 
 on:
   workflow_dispatch:
